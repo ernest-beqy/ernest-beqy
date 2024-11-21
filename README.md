@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there! 🤓
+## Hi there 👋 🤓
 
 I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently residing in **Sandton, Johannesburg, South Africa** 🇿🇦.
 
