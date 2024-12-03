@@ -1,4 +1,9 @@
-## Hi there 👋 🤓
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/ernest-beqy)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/ernest-beqy)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/ernest-beqy)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/ernest-beqy)
+![GitHub License](https://img.shields.io/github/license/bshongwe/ernest-beqy)
+# Hi there 👋 🤓
 
 I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently residing in **Sandton, Johannesburg, South Africa** 🇿🇦.
 
