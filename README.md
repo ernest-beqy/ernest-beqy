@@ -5,15 +5,13 @@
 ![GitHub License](https://img.shields.io/github/license/ernest-beqy/ernest-beqy)
 # Hi there 👋 🤓
 
-I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently residing in **Sandton, Johannesburg, South Africa** 🇿🇦.
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ernest-beqy)](https://git.io/streak-stats)
+I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently in **Sandton, Johannesburg, South Africa** 🇿🇦.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently building and maintaining full-stack AI fintech cloud solutions 💻 as a **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)
+- 🔭 I'm currently building and maintaining full-stack AI fintech cloud solutions 💻 as a **Backend Engineer** at [Beqy.ai](https://beqy.ai)
 
 ---
 
