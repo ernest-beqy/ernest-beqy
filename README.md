@@ -41,12 +41,12 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 
 ## 🌐 Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/bshongwe)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/ernest-beqy)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="25"/>](https://www.linkedin.com/in/ernest-shongwe/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="25" style="fill:#1DA1F2"/>](https://twitter.com/ernest_b_shong)
-[<img src="https://img.icons8.com/ios-glyphs/30/FF0000/email.png" alt="Email" width="25"/>](mailto:shongwe.bhekizwe@yahoomail.com)
-[<img src="https://img.icons8.com/ios-glyphs/30/FF0000/email.png" alt="Email" width="25"/>](mailto:ernest@beqy.co.za)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bshongwe)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-beqy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernest-shongwe/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ernest_b_shong)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:shongwe.bhekizwe@yahoomail.com)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:ernest@beqy.co.za)
 
 ---
 
