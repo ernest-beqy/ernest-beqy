@@ -4,12 +4,6 @@
 ![GitHub Issues](https://img.shields.io/github/issues/ernest-beqy/ernest-beqy)
 ![GitHub License](https://img.shields.io/github/license/ernest-beqy/ernest-beqy)
 
-![Visits Badge](https://badges.pufler.dev/visits/bshongwe/bshongwe)
-![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/bshongwe)
-![GitHub Forks](https://img.shields.io/github/forks/bshongwe/bshongwe)
-![GitHub Issues](https://img.shields.io/github/issues/bshongwe/bshongwe)
-![GitHub License](https://img.shields.io/github/license/bshongwe/bshongwe)
-
 # Hi there! 🤓
 **Welcome to my GitHub. I'm Ernest Bhekizwe Shongwe.**
 
@@ -21,10 +15,6 @@
 - job opportunities
 
 👨‍💻 Feel free to reach out using the contact details below.
-
-[![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
-[![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
 
 ---
 
