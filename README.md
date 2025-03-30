@@ -5,7 +5,7 @@
 ![GitHub License](https://img.shields.io/github/license/ernest-beqy/ernest-beqy)
 
 # Hi there! 🤓
-**Welcome to my GitHub. I'm Ernest Bhekizwe Shongwe.**
+**Welcome to my GitHub. I am Ernest Bhekizwe Shongwe.**
 
 🌍 **Location:** Currently in Sandton, Johannesburg, South Africa 🇿🇦  
 
@@ -14,19 +14,19 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions.
+I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions.
 With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable,
-efficient, and innovative applications.
+efficient and innovative applications with secure CI/CD & ML data pipelines.
 
 ### 🔭 Current Roles:
 - **Backend Engineer** at [Beqy.ai](https://beqy.ai)  
 - **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)  
-- Building cloud solutions at [KalKey](https://kalkey.com/)  
 
 ### 🌟 Fun Facts:
 - 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com)  
 - 📝 Writing about tech on [Medium](https://medium.com/@shongwe.bhekizwe)  
-- 🎨 Combining creativity with code in my [portfolio](http://ernestshong.tech/) 
+- 🎨 Combining creativity with code in my [portfolio](http://ernestshong.me/)
+- 🚀 Volunteered at Google Developer Group (GDG) Johannesburg 2025 event
 
 ---
 
@@ -38,7 +38,7 @@ efficient, and innovative applications.
 - **Recognition:**  
   - 🏅 Featured Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
   - Contributor to several open-source projects
-  - Built a robust 13-job, multi-tasked CI/CD pipeline at [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
+  - Built a robust 13-job, multi-tasked CI/CD pipeline at [Beqy.ai](https://beqy.ai) for an Azure and AWS cloud solution
 
 ---
 
@@ -61,10 +61,10 @@ efficient, and innovative applications.
 ## 🌐📫 Let's Connect!  
 Feel free to reach out if you'd like to collaborate or discuss exciting opportunities!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernest%20Shongwe-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ernestbshongwe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernest%20Shongwe-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ernest-shongwe)
 [![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:shongwe.bhekizwe@yahoomail.com)
 [![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:ernest@beqy.co.za)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.tech-green?style=flat&logo=google-chrome)](http://ernestshong.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.tech-green?style=flat&logo=google-chrome)](http://ernestshong.me/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ernest_b_shong) </br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bshongwe) **Main GitHub** </br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-beqy) **Work GitHub**
