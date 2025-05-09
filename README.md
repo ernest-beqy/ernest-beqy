@@ -19,7 +19,7 @@ With a strong foundation in **full-stack development** and **cloud technologies*
 efficient and innovative applications with secure CI/CD & ML data pipelines.
 
 ### 🔭 Current Roles:
-- **Backend Engineer** at [Beqy.ai](https://beqy.ai)  
+- **CTO & Backend Engineer** at [Beqy.ai](https://beqy.ai)  
 - **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)  
 
 ### 🌟 Fun Facts:
