@@ -1,4 +1,4 @@
-![Visits Badge](https://badges.pufler.dev/visits/ernest-beqy/ernest-beqy)
+![Visitors](https://komarev.com/ghpvc/?username=ernest-beqy&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Repo Stars](https://img.shields.io/github/stars/ernest-beqy/ernest-beqy)
 ![GitHub Forks](https://img.shields.io/github/forks/ernest-beqy/ernest-beqy)
 ![GitHub Issues](https://img.shields.io/github/issues/ernest-beqy/ernest-beqy)
