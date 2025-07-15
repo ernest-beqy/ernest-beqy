@@ -20,8 +20,6 @@ efficient and innovative applications with secure CI/CD & ML data pipelines.
 
 ### 🔭 Current Roles:
 - **CTO & Backend Engineer** at [Beqy.ai](https://beqy.ai)
-- **Intermediate Software Developer at [Popping Space](https://popping.co.za)
-- **ALX SE Grader** at [ALX Africa](https://alxafrica.com)  
 
 ### 🌟 Fun Facts:
 - 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com)  
