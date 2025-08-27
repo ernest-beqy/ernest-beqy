@@ -61,12 +61,10 @@ efficient and innovative applications with secure CI/CD & ML data pipelines.
 Feel free to reach out if you'd like to collaborate or discuss exciting opportunities!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernest%20Shongwe-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ernest-shongwe)
-[![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:shongwe.bhekizwe@yahoomail.com)
 [![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:ernest@beqy.co.za)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.tech-green?style=flat&logo=google-chrome)](http://ernestshong.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.me-green?style=flat&logo=google-chrome)](http://ernestshong.me/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ernest_b_shong) </br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bshongwe) **Main GitHub** </br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-beqy) **Work GitHub**
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-beqy)
 
 ---
 
